@@ -94,6 +94,6 @@ console.log(!(5 > 10 || 15 > 20))
 
 // Operadores ternarios
 
-const isRaining = false
+const isRaining = true
 isRaining ? console.log("Está lloviendo") : console.log("No está lloviendo")
 
