@@ -1,6 +1,8 @@
 // 1. Imprime por consola tu nombre si una variable toma su valor
 let myName = "Maria"
 
+
+
 if (myName == "Alejandra") {
     console.log(myName)
 }else{
