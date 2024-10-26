@@ -10,3 +10,8 @@ console.log(helloWorld2);
 //const no se puede reasignar el valor
 const helloWorld3 = "¡Hola, JavaScript 3!";
 console.log(helloWorld3);
+
+/* let nombre = prompt("Dime tu nombre")
+console.log(nombre) 
+prompt solo se puede ejecutar en el navegador no en nodejs
+*/
