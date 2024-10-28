@@ -31,3 +31,6 @@ console.log(myClass);
 se puede exportar pero hay que comentar el que ya tenia de substrac
  */
 
+//modulos externos que se llama OS (operative system) solo se puede ejecutar si el fichero cjs no js
+const os = require("os");
+console.log(os);
